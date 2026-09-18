@@ -1,0 +1,6 @@
+.logo-title {
+  display: flex;         /* Coloca los elementos en línea horizontal */
+  align-items: center;   /* Centra verticalmente la imagen con el texto */
+  gap: 12px;             /* Espacio de separación entre la imagen y el título */
+}
+
